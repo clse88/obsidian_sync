@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -174,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cac2b9acd4d6c24",
+  "active": "9365c119aacd53a8",
   "lastOpenFiles": [
+    "개인정보 관리.md",
+    "연결테스트.md",
     "README.md"
   ]
 }
