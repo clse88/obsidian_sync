@@ -11,10 +11,14 @@
             "id": "9365c119aacd53a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "개인정보 관리.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "개인정보 관리"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "개인정보 관리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "개인정보 관리 의 개요"
             }
           },
           {
@@ -155,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9365c119aacd53a8",
+  "active": "d07de98f930d1796",
   "lastOpenFiles": [
     "개인정보 관리.md",
     "연결테스트.md",
