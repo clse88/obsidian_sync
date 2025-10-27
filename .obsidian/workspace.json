@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서버 및 계정 정보.md",
+                "file": "할일/Daily Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "서버 및 계정 정보"
+              "title": "Daily Tasks"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "서버 및 계정 정보.md",
+                "file": "할일/Daily Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "서버 및 계정 정보 의 개요"
+              "title": "Daily Tasks 의 개요"
             }
           },
           {
@@ -197,12 +197,12 @@
   "lastOpenFiles": [
     "할일/Weekly Tasks.md",
     "할일/Daily Tasks.md",
+    "서버 및 계정 정보.md",
     "할일",
     "Tip 모음.md",
     "개인정보 관리.md",
     "Pasted image 20251020095810.png",
     "Tips.md",
-    "서버 및 계정 정보.md",
     "연결테스트.md",
     "2025-10-13.md",
     "무제.canvas",
