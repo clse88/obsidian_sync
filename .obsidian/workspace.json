@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HW/XY Stage/Akribis/AG800.md",
+                "file": "HW/EFEM/RND/PreAligner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AG800"
+              "title": "PreAligner"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW/XY Stage/Akribis/AG800.md",
+                "file": "HW/EFEM/RND/PreAligner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AG800 의 개요"
+              "title": "PreAligner 의 개요"
             }
           },
           {
@@ -195,11 +195,11 @@
   },
   "active": "6386d487f94a6966",
   "lastOpenFiles": [
+    "HW/XY Stage/Akribis/AG800.md",
     "HW/EFEM/RND/PreAligner.md",
     "HW/EFEM/RND",
     "HW/EFEM",
     "소프트웨어 라이선스 정보.md",
-    "HW/XY Stage/Akribis/AG800.md",
     "Tip 모음.md",
     "HW/XY Stage/Akribis",
     "HW/XY Stage",
